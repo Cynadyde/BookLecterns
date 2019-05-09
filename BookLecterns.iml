@@ -13,6 +13,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="1.12-spigot" level="project" />
-    <orderEntry type="library" name="ProtocolLib" level="project" />
+    <orderEntry type="library" name="1.12-ProtocolLib" level="project" />
   </component>
 </module>

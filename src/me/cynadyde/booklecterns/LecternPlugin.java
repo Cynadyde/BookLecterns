@@ -252,8 +252,8 @@ public class LecternPlugin extends JavaPlugin implements Listener {
 
             PacketContainer packet = ProtocolLibrary.getProtocolManager().createPacket(PacketType.Play.Server.CUSTOM_PAYLOAD);
             packet.getModifier().writeDefaults();
-            packet.getModifier().write(1, MinecraftReflection.getPacketDataSerializer(buffer));
             packet.getStrings().write(0, "MC|BOpen");
+            packet.getModifier().write(1, MinecraftReflection.getPacketDataSerializer(buffer));
 
             player.getInventory().setItem(slot, book);
             ProtocolLibrary.getProtocolManager().sendServerPacket(player, packet);

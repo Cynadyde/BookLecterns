@@ -3,24 +3,25 @@
 # https://www.spigotmc.org/resources/book-lecterns.36689/ # 
 #                                                         # 
 
-main: me.Cynadyde.LecternPlugin
+main: LecternPlugin
 name: BookLecterns
 prefix: BookLects
-version: 1.3 for Minecraft 1.11.2+
+version: 1.4
+api-version: 1.12
 description: remotely view books through a multi-block structure
-author: Cynadyde; February 16, 2017
+author: zynadyde (February, 2017)
 website: https://www.spigotmc.org/resources/book-lecterns.36689/
 depend: [ProtocolLib]
 commands:
     lecterns:
-        usage: "/lecturns"
+        usage: "/lecterns"
         description: "Show plugin help"
     lecterns reload:
         usage: "/lecterns reload"
-        description: "reload the plugin's config file"
+        description: "reload the plugin's config file."
 permissions:
     lecterns.*:
-        description: "grants access to all features and abilities"
+        description: "grants access to all features and abilities."
         default: op
         children:
             lecterns.use: true
@@ -28,14 +29,14 @@ permissions:
             lecterns.anyblock: true
             lecterns.reload: true
     lecterns.use:
-        description: "grants the ability to use lecturns"
+        description: "grants the ability to use lecterns."
         default: true
     lecterns.create:
-        description: "grants the ability to create lecturns"
+        description: "grants the ability to create lecterns."
         default: true
     lecterns.anyblock:
-        description: "grants the ability to use any block if creating a lectern"
+        description: "grants the ability to use any block if creating a lectern."
         default: false
     lecterns.reload:
-        description: "grants the ability to reload the plugin config"
+        description: "grants the ability to reload the plugin config."
         default: false

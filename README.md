@@ -3,6 +3,7 @@
 
 BookLecterns is a Spigot Plugin that allows the player to remotely view books using a multi-block structure. 
 Visit this plugin's [Spigot MC](https://www.spigotmc.org/resources/book-lecterns.36689/) page for more information! 
+
 To install, simply place the jar file in your Spigot MC server's `plugins` folder. You will need a single dependency, 
 [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/). Place this jar in your `plugins` folder, also.
 

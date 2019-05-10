@@ -28,4 +28,5 @@ Simply place the jar file in your Spigot MC server's `plugins` folder. You will 
 ##### For Minecraft 1.14+:
 
 > Lecterns are an official block in Minecraft 1.14, so there are no plans for this version. However,
-  I have a successor to this plugin: [Bookshelves](https://www.spigotmc.org/resources/bookshelves.67225/)!
+  I have a successor to this plugin that implements similar features to the bookshelf block: 
+  [Bookshelves](https://www.spigotmc.org/resources/bookshelves.67225/)!

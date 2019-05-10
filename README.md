@@ -20,7 +20,6 @@ To install, simply place the jar file in your server's `plugins` folder. You wil
   I have a successor to this plugin that adds these features to the bookshelf block: 
   [Bookshelves](https://www.spigotmc.org/resources/bookshelves.67225/)
 
-
 ## Bugs & Feedback
 
 If you find a bug or would like to give feedback and suggestions, please visit

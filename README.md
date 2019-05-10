@@ -12,14 +12,11 @@ To install, simply place the jar file in your server's `plugins` folder. You wil
 ##### For Minecraft < 1.8.9:
 > These versions are untested.
 
-##### For Minecraft 1.8.9, 1.9, 1.10, 1.11, & 1.12:
-> [BookLecterns_1.12.2-0.jar](https://github.com/Cynadyde/BookLecterns/raw/master/builds/BookLecterns_1.12.2-0.jar)
-
-##### For Minecraft 1.13:
-> No working build. I will see what I can do when I get time.  (edited: 2019-05-09)
+##### For Minecraft 1.8.9, 1.9, 1.10, 1.11, 1.12, & 1.13:
+> [BookLecterns_1.12.2-1.jar](https://github.com/Cynadyde/BookLecterns/raw/master/builds/BookLecterns_1.12.2-1.jar)
 
 ##### For Minecraft 1.14+:
-> Lecterns are an official block in Minecraft 1.14, so there are no plans for this version. However,
+> Lecterns are an official block in Minecraft 1.14, so there are no plans for future versions. However,
   I have a successor to this plugin that adds these features to the bookshelf block: 
   [Bookshelves](https://www.spigotmc.org/resources/bookshelves.67225/)
 

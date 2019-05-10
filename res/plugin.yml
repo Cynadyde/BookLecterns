@@ -6,11 +6,11 @@
 main: me.cynadyde.booklecterns.LecternPlugin
 name: BookLecterns
 prefix: BookLects
-version: 1.12.2-03
+version: 1.12.2-1
 description: Remotely view books through a multi-block structure.
 website: https://www.spigotmc.org/resources/book-lecterns.36689/
 authors:
-  - Cynadyde (February, 2017)
+  - Cynadyde (Feb, 2017)
 depend:
   - ProtocolLib
 commands:
